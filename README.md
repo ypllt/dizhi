@@ -3,11 +3,13 @@
 
 最新可访问地址
 
-ypllt.com
 
-ypllt.cc    (被污染)
+ypllt.cc(被污染)
 
-ypllt.info
+ypllt.com(正常)
 
-ypllt.net
+ypllt.info(正常)
 
+ypllt.net(正常)
+
+ypllt.xyz(正常)
